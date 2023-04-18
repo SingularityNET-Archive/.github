@@ -1,5 +1,8 @@
 ## Welcome to our GitHub Organisation for the SingularityNET-Archive
 
+![Screenshot from 2023-04-15 00-46-38](https://user-images.githubusercontent.com/25156451/232790370-43fc4d47-97e4-4f59-af95-9fb72be1015e.png)
+
+
 Our organisation contains ...
 
 Our goal is to provide a collaborative platform for the SingularityNET-Archive community to share knowledge, ideas, and best practices. We welcome contributions from anyone interested in SingularityNET, whether it's a new project, code example, or documentation.
