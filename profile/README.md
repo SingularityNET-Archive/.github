@@ -1,8 +1,6 @@
 ## Welcome to our GitHub Organisation for the SingularityNET-Archive
 
-![Screenshot from 2023-04-15 00-46-38](https://user-images.githubusercontent.com/25156451/232790370-43fc4d47-97e4-4f59-af95-9fb72be1015e.png)
-
-<img src="https://user-images.githubusercontent.com/25156451/232790370-43fc4d47-97e4-4f59-af95-9fb72be1015e.png" height="100">
+<img src="https://user-images.githubusercontent.com/25156451/232790370-43fc4d47-97e4-4f59-af95-9fb72be1015e.png" height="200">
 
 
 Our organisation contains ...
