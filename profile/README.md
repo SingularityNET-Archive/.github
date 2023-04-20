@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/25156451/232790370-43fc4d47-97e4-4f59-af95-9fb72be1015e.png" height="200">
 
 
-Our organisation contains ...
+This GitHub organisation contains repositories for SingularityNET Ambassador GitBooks.
 
 Our goal is to provide a collaborative platform for the SingularityNET-Archive community to share knowledge, ideas, and best practices. We welcome contributions from anyone interested in SingularityNET, whether it's a new project, code example, or documentation.
 
